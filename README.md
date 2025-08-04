@@ -1,13 +1,12 @@
 
 
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ndhpze4t3mks3o7yp7u2p2dwve&cover_image=true&theme=compact&show_offline=true&background_color=d7e0d8&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ndhpze4t3mks3o7yp7u2p2dwve&redirect=true)
-
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/47/39/0d/47390d562ebd22c70f4a6867b3b71362.jpg"  width="1000" />
 </p>
 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ndhpze4t3mks3o7yp7u2p2dwve&cover_image=true&theme=compact&show_offline=true&background_color=d7e0d8&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ndhpze4t3mks3o7yp7u2p2dwve&redirect=true)
 
 <!--
 **MafiosoC00l/MafiosoC00l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
